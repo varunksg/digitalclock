@@ -8,8 +8,8 @@ body{
     background-color: beige;
 }
 .container{
-    width: 100px;
-    height: 180px;
+    width: 200px;
+    height: 100px;
     position:absolute;
     margin-top: 20%;
     margin-left: 35%;
@@ -20,9 +20,8 @@ body{
     height: 100%;
     background-color: #0f0f0f;
     border-radius: 12px;
-    display: flexbox;
-    align-items: center;
-    justify-content: center;
+
+  
 }
 .clock span{
     font-size: 40px;
